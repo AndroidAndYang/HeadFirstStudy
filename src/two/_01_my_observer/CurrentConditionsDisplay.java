@@ -1,4 +1,4 @@
-package two._01_my_observe;
+package two._01_my_observer;
 
 /**
  * author： YJZ

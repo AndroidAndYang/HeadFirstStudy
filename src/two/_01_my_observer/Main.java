@@ -1,8 +1,4 @@
-package two._01_my_observe;
-
-import two._01_my_observe.CurrentConditionsDisplay;
-import two._01_my_observe.Observer;
-import two._01_my_observe.WeatherData;
+package two._01_my_observer;
 
 /**
  * author： YJZ
