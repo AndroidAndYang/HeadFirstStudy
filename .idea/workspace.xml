@@ -2,28 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4af3e67b-bacd-4374-9d8a-d245bc4d3ab4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/four/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four/_01_pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_01_coffee/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_01_coffee/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_01_coffee/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_01_coffee/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_01_coffee/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/_02_io/LowerCaseInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/four/01_pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoChessPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/NYChessPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Clams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Veggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoFreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoMarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoOnionVeggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoSlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYFreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYMarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYOnionVeggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYSlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ChessPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ClamsPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/store/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/_03_abstract_factory/store/PizzaStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirst/one/duck/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirst/one/duck/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirst/one/duck/ModelDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirst/one/duck/ModelDuck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/description" beforeDir="false" afterPath="$PROJECT_DIR$/src/description" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/_01_my_observe/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/_01_my_observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/_01_pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/_01_pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/duck/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/duck/ModelDuck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,29 +71,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="description" pinned="false" current-in-tab="false">
+      <file leaf-file-name="description" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/description">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/Pizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -79,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimplePizzaFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java">
+      <file leaf-file-name="ClamsPizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ClamsPizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="340">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChessPizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ChessPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,58 +102,39 @@
         </entry>
       </file>
       <file leaf-file-name="PizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/PizzaStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheesePizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
-              <folding>
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreekPizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/one/Main.java">
+      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/Pizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/three/Main.java">
+      <file leaf-file-name="ChicagoPizzaStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/ChicagoPizzaStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="476">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,11 +142,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/JAVA/jdk1.8.0_144/src.zip!/java/io/InputStream.java">
+      <file leaf-file-name="NYPizzaStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYPizzaStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChicagoPizzaIngredientFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/ChicagoPizzaIngredientFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PizzaIngredientFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/factory/PizzaIngredientFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChicagoMarinaraSauce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoMarinaraSauce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,8 +198,13 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NY</find>
+      <find>ChicagoReggianoCheese</find>
+    </findStrings>
     <replaceStrings>
       <replace />
+      <replace>Chicago</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -181,57 +213,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/one/impl/quack/Squeak.java" />
-        <option value="$PROJECT_DIR$/src/one/impl/fly/FlyWithWings.java" />
-        <option value="$PROJECT_DIR$/src/face/MiloThreadLocal.java" />
-        <option value="$PROJECT_DIR$/src/face/MyThreadLocal.java" />
-        <option value="$PROJECT_DIR$/src/one/Duck.java" />
-        <option value="$PROJECT_DIR$/src/one/duck/Duck.java" />
-        <option value="$PROJECT_DIR$/src/one/interf/quack/QuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/one/interf/fly/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/one/impl/quack/MuteQuack.java" />
-        <option value="$PROJECT_DIR$/src/one/impl/fly/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/src/one/duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/one/duck/ModelDuck.java" />
-        <option value="$PROJECT_DIR$/src/one/duck/BaseDuck.java" />
-        <option value="$PROJECT_DIR$/src/one/Main.java" />
-        <option value="$PROJECT_DIR$/src/two/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/ConcreteObserver.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/src/two/Main.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/CurrentConditonsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/Observer.java" />
-        <option value="$PROJECT_DIR$/src/two/observe/Subject.java" />
-        <option value="$PROJECT_DIR$/src/two/my_observe/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/two/_01_my_observe/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/Observable.java" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/CurrentConditionsDisPlay.java" />
-        <option value="$PROJECT_DIR$/src/two/_02_sys_observer/Main.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/Condiment.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/CondimentDecorator.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/three/_01_coffee/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/three/test" />
-        <option value="$PROJECT_DIR$/src/three/_02_io/LowerCaseInputStream.java" />
         <option value="$PROJECT_DIR$/src/three/Main.java" />
-        <option value="$PROJECT_DIR$/src/description" />
         <option value="$PROJECT_DIR$/src/four/_01_pizza/CheesePizee.java" />
-        <option value="$PROJECT_DIR$/src/four/Main.java" />
+        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoPizzaStore.java" />
         <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java" />
         <option value="$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java" />
         <option value="$PROJECT_DIR$/src/four/_01_pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoChessPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/Dough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ThinCrustDouhh.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Clams.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Dough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Pepperoni.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Veggies.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/MarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoMarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoCheese.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/nyThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/OnionVeggies.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYOnionVeggies.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYsOnionVeggies.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoOnionVeggies.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYSlicedPepperoni.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoPepperoni.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYFreshClams.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoFreshClams.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/ChessPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ChessPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ClamsPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_02_pizza_factory/NYChessPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYChessPizza.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/store/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/four/Main.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/four/_03_abstract_factory/store/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/description" />
       </list>
     </option>
   </component>
@@ -258,6 +290,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,34 +302,23 @@
             <path>
               <item name="HeadFirst" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirst" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HeadFirst" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirst" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
               <item name="four" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HeadFirst" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirst" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="four" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_pizza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirst" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirst" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="four" type="462c0819:PsiDirectoryNode" />
-              <item name="_02_pizza_factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -307,17 +330,21 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Project\HeadFirst\file\four" />
+      <recent name="E:\Java Project\HeadFirst\file\two" />
+      <recent name="E:\Java Project\HeadFirst\file" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="four._03_abstract_factory.store" />
+      <recent name="four._03_abstract_factory.pizza" />
+      <recent name="four._03_abstract_factory" />
+      <recent name="four._03_abstract_factory.factory" />
+      <recent name="four._03_abstract_factory.ingredinent.des" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Java Project\HeadFirst\src" />
       <recent name="E:\Java Project\HeadFirst\file\one" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="four._01_pizza" />
-      <recent name="two._02_sys_observer" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Java Project\HeadFirst\file\two" />
-      <recent name="E:\Java Project\HeadFirst\file" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -423,14 +450,16 @@
       <workItem from="1565934137186" duration="2558000" />
       <workItem from="1566006457643" duration="14062000" />
       <workItem from="1567499010110" duration="5792000" />
+      <workItem from="1567567435470" duration="9964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31953000" />
+    <option name="totallyTimeSpent" value="41917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -439,7 +468,7 @@
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info id="UI Designer" order="2" />
@@ -449,10 +478,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24707136" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -480,14 +509,14 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32934782" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24707136" />
       <window_info anchor="right" id="Flutter Outline" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.32960597" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
@@ -512,206 +541,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/one/interf/fly/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/duck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/duck/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/interf/fly/impl/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/interf/fly/impl/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/interf/quack/impl/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/interf/quack/impl/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/interf/quack/impl/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/duck/BaseDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/observe/ConcreteSubject.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/observe/ConcreteObserver.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/WeatherData.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/Observable.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/Observer.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="67" lean-forward="true" selection-start-line="55" selection-start-column="2" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="16" column="27" selection-start-line="9" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JAVA/jdk1.8.0_144/src.zip!/java/util/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/CurrentConditionsDisPlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JAVA/jdk1.8.0_144/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="172" column="13" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/description.java" />
-    <entry file="file://$PROJECT_DIR$/src/two/_02_sys_observer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/_01_my_observer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/two/01气象站需求.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/one/Duck_UML.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/_01_coffee/HouseBlend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/_01_coffee/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/_01_coffee/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/three/_01_coffee/Espresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -723,19 +552,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/two/02气象站UML图.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/_02_io.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/_02_io.java" />
     <entry file="jar://E:/JAVA/jdk1.8.0_144/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -754,10 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-          <folding>
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,14 +589,14 @@
     </entry>
     <entry file="jar://E:/JAVA/jdk1.8.0_144/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="697">
           <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/three/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="306">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -788,71 +607,347 @@
     <entry file="file://$PROJECT_DIR$/src/one/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/description">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/GreekPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/file/four/01_pizza.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoChessPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Dough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Pepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Veggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Sauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYMarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYOnionVeggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoOnionVeggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYSlicedPepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoSlicedPepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/Clams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/NYFreshClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoFreshClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/NYPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/ChicagoPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYChessPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/NYChessPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_01_pizza/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_02_pizza_factory/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="110" lean-forward="true" selection-start-line="37" selection-start-column="110" selection-end-line="37" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/ingredinent/des/ChicagoMarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ChessPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/pizza/ClamsPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/factory/PizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/factory/impl/ChicagoPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/_03_abstract_factory/store/ChicagoPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/description">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />

@@ -5,7 +5,7 @@ package four._01_pizza;
  * date:  2019/9/3
  * des:
  */
-public class CheesePizza implements Pizza {
+public class CheesePizza extends Pizza {
 
     @Override
     public void prepare() {

@@ -7,20 +7,26 @@ import four._01_pizza.Pizza;
  * date:  2019/9/3
  * des:
  */
-public class PizzaStore {
+public abstract class PizzaStore {
 
-    private SimplePizzaFactory simplePizzaFactory;
-
-    public PizzaStore(SimplePizzaFactory simplePizzaFactory) {
-        this.simplePizzaFactory = simplePizzaFactory;
-    }
+    // ----------- 1.0 -----------
+    // private SimplePizzaFactory simplePizzaFactory;
+    // public PizzaStore(SimplePizzaFactory simplePizzaFactory) {
+    //     this.simplePizzaFactory = simplePizzaFactory;
+    // }
 
     public Pizza orderPizza(String type) {
-        Pizza pizza = simplePizzaFactory.createPizza(type);
+        // ----------- 1.0 -----------
+        // Pizza pizza = simplePizzaFactory.createPizza(type);
+
+        // ----------- 2.0 -----------
+        Pizza pizza = createPizza(type);
         pizza.prepare();
         pizza.bake();
         pizza.cut();
         pizza.box();
         return pizza;
     }
+
+    public abstract Pizza createPizza(String type);
 }

@@ -17,6 +17,6 @@ public class ModelDuck extends BaseDuck {
 
     @Override
     public void display() {
-        System.out.println("I`m a real fly duck!");
+        System.out.println("I`m a des fly duck!");
     }
 }
